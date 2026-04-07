@@ -38,4 +38,4 @@ This application allows users to scan a range of ports on a target system (IP ad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kukkamallaramya599-del/network-port-scanner/tree/master
+   git clone https://github.com/kukkamallaramya599-del/network-port-scanner
